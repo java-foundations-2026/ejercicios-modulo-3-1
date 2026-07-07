@@ -8,6 +8,17 @@ public class Actividad11 {
         double nota3 = 9.0;
         boolean asistencia = true;
 
+       /* Estudiante: Ana
+        Promedio: 8.0
+        Asistencia: true */
+
+        double promedio = (nota1 + nota2 + nota3) / 3;
+        System.out.println("Promedio: " + promedio);
+        System.out.println("Asistencia: " + asistencia);
+        System.out.println("Estudiante: " + nombre);
         // TODO: calcula el promedio y muestra el informe.
+
+
+
     }
 }
