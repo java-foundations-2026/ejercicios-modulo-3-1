@@ -16,11 +16,5 @@ public class Actividad12 {
         System.out.println("Salario Anual: " + resultAnual);
         System.out.println("Activo: " + activo);
 
-
-        /* Empleado: Carlos
-        Departamento: Ventas
-        Salario mensual: 1800.0
-        Salario anual: 21600.0
-        Activo: true */
     }
 }
