@@ -5,10 +5,10 @@ public class Actividad05 {
         int dato = 25;
         System.out.println("Edad: " + dato);
 
-        dato = "Madrid";
-        System.out.println("Ciudad: " + dato);
+        String dato2 = "Madrid";
+        System.out.println("Ciudad: " + dato2);
 
-        dato = 1.75;
-        System.out.println("Altura: " + dato);
+        double dato3 = 1.75;
+        System.out.println("Altura: " + dato3);
     }
 }
