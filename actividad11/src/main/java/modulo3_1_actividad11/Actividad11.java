@@ -9,5 +9,9 @@ public class Actividad11 {
         boolean asistencia = true;
 
         // TODO: calcula el promedio y muestra el informe.
+    	System.out.println("Nombre: "+ nombre);
+    	System.out.println("El promedio de las notas es: "+ nombre);
+
+
     }
 }
