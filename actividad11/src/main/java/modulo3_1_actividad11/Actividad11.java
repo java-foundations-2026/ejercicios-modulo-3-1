@@ -15,6 +15,7 @@ public class Actividad11 {
         System.out.println("Asistencia: " + asistencia);
 
         // TODO: calcula el promedio y muestra el informe.
+        
        
     }
 }

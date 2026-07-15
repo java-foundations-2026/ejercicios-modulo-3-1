@@ -2,11 +2,19 @@ package modulo3_1_actividad15;
 
 public class Actividad15 {
     public static void main(String[] args) throws Exception {
-        System.out.println("Nombre: Marta");
-        System.out.println("Edad: 19");
-        System.out.println("Producto: Cuaderno");
-        System.out.println("Precio: 3.5");
+    	// TODO: reescribe el programa usando variables para cada dato.
+    	
+    	String nombre = "Marta", producto = "Cuaderno";
+    	int edad = 19;
+    	double precio = 3.5;
+    	
+    	
+    	System.out.println("Nombre: " + nombre);
+        System.out.println("Edad: " + edad);
+        System.out.println("Producto: " + producto);
+        System.out.println("Precio: " + precio);
 
-        // TODO: reescribe el programa usando variables para cada dato.
+        
+        
     }
 }
