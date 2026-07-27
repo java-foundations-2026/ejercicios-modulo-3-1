@@ -8,5 +8,10 @@ public class Actividad12 {
         boolean activo = true;
 
         // TODO: calcula el salario anual y muestra la tarjeta.
+        System.out.println("Empleado: " + nombre);
+        System.out.println("Departamento: " + departamento);
+        System.out.println("Salario mensual: " + salarioMensual);
+        System.out.println("Salario anual: " + (salarioMensual*12));
+        System.out.println("Activo: " + activo);
     }
 }
